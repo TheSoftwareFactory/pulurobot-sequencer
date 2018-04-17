@@ -1,0 +1,6 @@
+[package]
+name = "pulurobot-sequencer"
+version = "0.1.0"
+authors = ["Gabriel Gatu <gabriel.dny@gmail.com>"]
+
+[dependencies]
